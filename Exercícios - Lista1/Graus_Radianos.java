@@ -4,7 +4,7 @@ import java.util.Scanner;
  	Leia um ângulo em graus e apresente-o convertido em radianos. 
  	A fórmula de conversão é: R= G * π /180, sendo G o ângulo em graus e R em radianos e π = 3.14.
  */
-public class Programa14 {
+public class Graus_Radianos {
 	public static void main(String[] args) {
 		double grau, pi = 3.14;
 		 double rad;
